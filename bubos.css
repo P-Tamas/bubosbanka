@@ -15,6 +15,7 @@ p{
 #balkep{
   float: left;
   margin-right: 15px;
+  width: 400px;
 }
 
 #jobbkep{
@@ -34,7 +35,7 @@ td{
 
 td:first-child {
   font-weight: bold;
-  text-align: right;
+  text-align: center;
 }
 
 td:nth-child(2) {
