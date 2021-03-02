@@ -1,5 +1,7 @@
 body{
   padding: 15px;
+  background-color: #E7E7FF; 
+  color: #1D1D4E;
 }
 
 h1{
@@ -15,7 +17,7 @@ p{
 #balkep{
   float: left;
   margin-right: 15px;
-  width: 400px;
+  width: 200px;
 }
 
 #jobbkep{
